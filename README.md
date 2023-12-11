@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm HOANG BAO</h1>
+<h3 align="center">Frontend + Backend Developer</h3>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a
         href="https://azure.microsoft.com/en-in/"
