@@ -175,4 +175,12 @@
             height="40"
         />
     </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img
+            src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"
+            alt="webpack"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
