@@ -4,5 +4,5 @@
 <p><strong>Frontend</strong>: HTML, CSS, Javascript (ReactJS, NextJS), Typescript</p>
 <p><strong>Backend</strong>: NodeJS (Express), NestJS, Java (Spring Boot), PHP, Prisma, TypeORM, RESTful API, Graphql</p>
 <p><strong>Mobile</strong>: Flutter</p>
-<p><strong>Database</strong>: MySQL, Postgresql, NoSQL (MongoDB)</p>
+<p><strong>Database</strong>: MySQL, Postgresql, NoSQL (MongoDB, Redis)</p>
 <p><strong>Other</strong>: GIT, Docker, Azure (basic), Desktop Tools, Browser Extensions</p>
