@@ -1,4 +1,10 @@
+
 <h1>Hi 👋, I'm BAO NGUYEN</h1>
+
+<blockquote>
+    Biển học vô biên lấy kiên trì làm bến<br />
+    Mây xanh không lối lấy chí cả dựng lên
+</blockquote>
 
 <h3>Languages and Tools:</h3>
 <p><strong>Frontend</strong>: HTML, CSS, Javascript (ReactJS, NextJS), Typescript</p>
